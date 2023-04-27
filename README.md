@@ -1,8 +1,8 @@
-# Proyecto 1
+# dojo-1 Proyecto 1 Leandro Escobar
 Proyecto: semaforo con buzzer
 
 ![Circuit design Swanky Inari-Gogo _ Tinkercad - Google Chrome 20_4_2023 20_21_12 (2)](https://user-images.githubusercontent.com/123372673/233506618-543e049e-c475-4c2b-afe5-f8aaa8822233.png)
-# Integrantes:
+# Integrantes del grupo:
 Corbalán Federico, Figueroa Lucas, Escobar Leandro, Escalante Bautista
 # semaforo con cruce para no videntes
 ![Circuit design Swanky Inari-Gogo _ Tinkercad - Google Chrome 20_4_2023 20_05_49 (2)](https://user-images.githubusercontent.com/123372673/233507442-b9889ca4-7599-45d4-8dc5-3f42d2edbc6a.png)
